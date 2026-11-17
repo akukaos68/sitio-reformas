@@ -1,6 +1,6 @@
 /* ===== Datos a cambiar ===== */
 const CONFIG = {
-  whatsapp: "59899000000",           // formato internacional, sin + ni espacios
+  whatsapp: "5989720859",           // formato internacional, sin + ni espacios
   mensaje: "Hola, quiero pedir un presupuesto"
 };
 
